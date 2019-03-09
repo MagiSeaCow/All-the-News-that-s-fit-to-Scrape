@@ -1,0 +1,47 @@
+.newsLine {
+    color: cornflowerblue;
+    border-radius: 30px;
+    width: 95%;
+    padding-left: 4%;
+}
+
+ol {
+    color: black;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+a {
+    color: lavender;
+}
+
+.headlineField {
+    color: rgb(134, 0, 0);
+    font-size: 22px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.linkField {
+    color: violet;
+    font-size: 14px;
+    margin: auto;
+}
+
+body {
+    background-color: black;
+    font-family: 'Helvetica', serif;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.summary{
+    font-size: 18px;
+}
+
+.commentsContainer {
+    background-color: rgb(80, 80, 165);
+}
